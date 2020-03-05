@@ -1,0 +1,9 @@
+<footer class="main-footer">
+{% if page.news %}
+  {% include newsletter.html %}
+  <p align="center">or send me a message: </p>
+{% endif  %}
+  <div class="copyright">
+  <li class="email"><a href="mailto:{{site.email}}">{{site.time | date: '%Y'}} &copy; {{site.author}} <i class="fa fa-envelope-o"></i></a></li>
+  </div>
+</footer> <!-- End Footer -->

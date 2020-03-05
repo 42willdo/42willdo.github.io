@@ -1,0 +1,35 @@
+title: 42willdo
+email: contact@fourtytwowilldo.de
+description: "or the Quest of finding the Answer to the Ultimate Question of Li
+    fe, The Universe, and Everything"
+permalink: ':title/'
+baseurl: "/fourtytwowilldo"
+url: "http://localhost:4000"
+
+# Author settings
+author: Ford Prefect
+author-pic: adam-face.jpg
+
+# Newsletter
+mailchimp: "fourtytwowilldo.us19.list-manage.com/subscribe/post?u=263ad69c2592577dd9560199d&amp;id=cd0aae3835" # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: fourtytwowilldo # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
