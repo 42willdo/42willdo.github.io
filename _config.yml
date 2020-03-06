@@ -4,7 +4,7 @@ description: "or the Quest of finding the Answer to the Ultimate Question of Li
     fe, The Universe, and Everything"
 permalink: ':title/'
 baseurl: "/fourtytwowilldo"
-url: "http://localhost:4000"
+url: "http://fourtytwowilldo.de"
 
 # Author settings
 author: Ford Prefect
