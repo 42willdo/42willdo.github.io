@@ -6,7 +6,8 @@ author: Ford
 <ul class="slideshow">
     {% for image in site.static_files %}
       {% if image.path contains 'img/slider' %}
-        <li><span style="background: url({{ site.baseurl }}{{ image.path }});"></span></li>
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <!--<li><span style="background: url({{ site.baseurl }}{{ image.path }});"></span></li>-->
       {% endif %}
     {% endfor %}
     <!--
