@@ -1,11 +1,11 @@
 ---
 layout: post
 comments: true
-news: true
 category: firstAtempt
 title: "t-7 ->Tour overview"
-author: "Son-GokuJ"
+author: Ford
 img: tourmap.jpg
+tags: [First Atempt, Planning, t-7]
 ---
 # The big plan
 
