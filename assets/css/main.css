@@ -1783,40 +1783,40 @@ pre code {
 .slideshow li:nth-child(1) span {
 }
 .slideshow li:nth-child(2) span {
-    animation-delay: 4s;
+    animation-delay: 5s;
 }
 .slideshow li:nth-child(3) span {
-    animation-delay: 8s;
+    animation-delay: 10s;
 }
 .slideshow li:nth-child(4) span {
-    animation-delay: 12s;
+    animation-delay: 15s;
 }
 .slideshow li:nth-child(5) span {
-    animation-delay: 16s;
-}
-.slideshow li:nth-child(6) span {
     animation-delay: 20s;
 }
+.slideshow li:nth-child(6) span {
+    animation-delay: 25s;
+}
 .slideshow li:nth-child(7) span {
-    animation-delay: 24s;
+    animation-delay: 30s;
 }
 .slideshow li:nth-child(8) span {
-    animation-delay: 28s;
+    animation-delay: 35s;
 }
 .slideshow li:nth-child(9) span {
-    animation-delay: 32s;
-}
-.slideshow li:nth-child(10) span {
-    animation-delay: 36s;
-}
-.slideshow li:nth-child(11) span {
     animation-delay: 40s;
 }
+.slideshow li:nth-child(10) span {
+    animation-delay: 45s;
+}
+.slideshow li:nth-child(11) span {
+    animation-delay: 50s;
+}
 .slideshow li:nth-child(12) span {
-    animation-delay: 44s;
+    animation-delay: 55s;
 }
 .slideshow li:nth-child(13) span {
-    animation-delay: 48s;
+    animation-delay: 60s;
 }
 
 
