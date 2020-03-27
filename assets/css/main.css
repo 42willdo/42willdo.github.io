@@ -1753,16 +1753,6 @@ pre code {
 
 /** SLIDESHOW **/
 
-.buttonslide {
-    position: absolute;
-    top: 48vh;
-    left: 48vw;
-    background-color: #0a2463;
-    opacity: 0.8;
-    border-radius: 0.4em;
-    font-size: larger;
-}
-
 .slideshow,
 .slideshow:after {
     top: 5em;
@@ -1793,22 +1783,41 @@ pre code {
 .slideshow li:nth-child(1) span {
 }
 .slideshow li:nth-child(2) span {
-    background-image: url("https://uploads-ssl.webflow.com/5976a3655fcd654cb3d604ca/5c00c9ecd82b40364fc97f4b_bridge.jpg");
-    animation-delay: 5s;
+    animation-delay: 4s;
 }
 .slideshow li:nth-child(3) span {
-    background-image: url("https://uploads-ssl.webflow.com/5976a3655fcd654cb3d604ca/5c00c9963ea913260bb41b0e_powerlines.jpg");
-    animation-delay: 10s;
+    animation-delay: 8s;
 }
 .slideshow li:nth-child(4) span {
-    background-image: url("https://uploads-ssl.webflow.com/5976a3655fcd654cb3d604ca/5bfa14d04ae3429879830ee4_home-hero.jpg");
-    animation-delay: 15s;
+    animation-delay: 12s;
 }
 .slideshow li:nth-child(5) span {
-    background-image: url("https://uploads-ssl.webflow.com/5976a3655fcd654cb3d604ca/5c00c9963ea913260bb41b0e_powerlines.jpg");
+    animation-delay: 16s;
+}
+.slideshow li:nth-child(6) span {
     animation-delay: 20s;
 }
-
+.slideshow li:nth-child(7) span {
+    animation-delay: 24s;
+}
+.slideshow li:nth-child(8) span {
+    animation-delay: 28s;
+}
+.slideshow li:nth-child(9) span {
+    animation-delay: 32s;
+}
+.slideshow li:nth-child(10) span {
+    animation-delay: 36s;
+}
+.slideshow li:nth-child(11) span {
+    animation-delay: 40s;
+}
+.slideshow li:nth-child(12) span {
+    animation-delay: 44s;
+}
+.slideshow li:nth-child(13) span {
+    animation-delay: 48s;
+}
 
 
 @keyframes imageAnimation {
