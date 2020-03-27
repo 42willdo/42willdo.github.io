@@ -3,7 +3,7 @@ layout: post
 news: true
 norecent: true
 title: About
-img: post-1.jpg
+img: about.jpg
 ---
 # Who am I?
 
