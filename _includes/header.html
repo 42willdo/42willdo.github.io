@@ -1,17 +1,21 @@
 <header class="main-header">
   <div class="wrapper">
     <div class="header-flex">
+      <a class="sitelogo" href="{{site.baseurl}}/">
+        <img src="{{ site.baseurl}}/assets/img/{{ site.author-pic }}" width="150">
+      </a>
       <div class="menu-icon-container">
         <span class="menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
       </div>
       <nav class="main-nav">
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
         <ul>
-          <li><a href="{{site.baseurl}}/">Blog</a></li>
-          <li><a href="{{site.baseurl}}/tour1">Tour 1</a></li>
+          <li><a href="{{site.baseurl}}/eds">Every Day Stuff</a></li>
+          <li><a href="{{site.baseurl}}/st">Short Trips</a></li>
           <li><a href="{{site.baseurl}}/firstAtempt">My first tour</a></li>
           <li><a href="{{site.baseurl}}/gear">Gear</a></li>
           <li><a href="{{site.baseurl}}/about">About</a></li>
+          <li>{% include newsletter.html %}</li>
         </ul>
       </nav>
       <p class="logo"><a href="{{site.baseurl}}/">{{ site.title }}</a></p>

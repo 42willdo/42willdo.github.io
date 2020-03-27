@@ -13,11 +13,11 @@ $(function () {
   })
 
   // Click outside of menu to close it
-  flexContainer.click(function (e) {
-    if (flexContainer.hasClass('active') && e.target.tagName !== 'A') {
-      flexContainer.removeClass('active')
-    }
-  })
+  //flexContainer.click(function (e) {
+    //if (flexContainer.hasClass('active') && e.target.tagName !== 'A') {
+      //flexContainer.removeClass('active')
+    //}
+  //})
 
   // Press Escape key to close menu
   $(window).keydown(function (e) {

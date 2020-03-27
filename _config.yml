@@ -3,8 +3,8 @@ email: contact@fourtytwowilldo.de
 description: "or the Quest of finding the Answer to the Ultimate Question of Li
     fe, The Universe, and Everything"
 permalink: ':title/'
-baseurl: "/fourtytwowilldo"
-url: "http://fourtytwowilldo.de"
+baseurl: "/42willdo.github.io"
+url: "https://www.fourtytwowilldo.de"
 
 # Author settings
 author: Ford Prefect

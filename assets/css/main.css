@@ -1775,10 +1775,10 @@ pre code {
 
 .slideshow li span {
         position: absolute;
-    width: 100%;
+    width: 98%;
     height: 100%;
     top: 0px;
-    left: 0px;
+    left: 0.7vw;
     color: transparent;
     background-size: cover;
     background-position: 50% 50%;
