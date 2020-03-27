@@ -6,21 +6,8 @@ author: Ford
 <ul class="slideshow">
     {% for image in site.static_files %}
       {% if image.path contains 'img/slider' %}
-        <!--<img src="{{ site.baseurl }}{{ image.path }}" alt="image" />-->
-        <li><span style="background: url({{ site.baseurl }}{{ image.path }});"></span></li>
+        <li><span><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></span></li>
+        <!--<li><span style="background: url({{ site.baseurl }}{{ image.path }});"></span></li>-->
       {% endif %}
     {% endfor %}
-    <!--
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
-    <li><span style="background: url({{"/assets/img/slider/PARA_1e.png" | prepend: site.baseurl }});"></span></li>
--->
 </ul>
