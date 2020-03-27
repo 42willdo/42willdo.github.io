@@ -4,7 +4,7 @@ comments: true
 category: firstAtempt
 title: "t-7 ->Tour overview"
 author: Ford
-img: tourmap.jpg
+img: /firstAtempt/tourmap.jpg
 tags: [First Atempt, Planning, t-7]
 ---
 # The big plan
@@ -42,7 +42,7 @@ Schauen Sie sich die *About* Seite an. Ich freue mich auf ihre Nachrichten.
 
 **Wir sehen uns auf dem Weg !**
 
-<img src="{{ site.baseurl}}/assets/img/tourmap.jpg" class="u-full-width" />
+<img src="{{ site.baseurl}}/assets/img/firstAtempt/tourmap.jpg" class="u-full-width" />
 
 
 
