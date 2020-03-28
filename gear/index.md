@@ -2,7 +2,7 @@
 layout: post
 author: Ford
 title: "Gear"
-img: gear2.jpg
+img: about.jpg
 ---
 
 # Travelling with a towel...
