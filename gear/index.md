@@ -1,6 +1,6 @@
 ---
 layout: post
-norecent: true
+author: Ford
 title: "Gear"
 img: gear2.jpg
 ---
@@ -19,7 +19,8 @@ interessante Reisebegleiter. Ich freue mich über Fragen, Empfehlungen oder eure
 den Kommentaren. 
 
 ---
-Bike 
+<img src="{{ site.baseurl}}/assets/img/gear/bike1.jpg" class="u-full-width"/>
+<img src="{{ site.baseurl}}/assets/img/gear/bike2.jpg" class="u-full-width"/>
 
 ## The two wheeled, human muscle-powered mode of transportation
  
