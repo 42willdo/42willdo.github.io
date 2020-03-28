@@ -19,7 +19,7 @@ interessante Reisebegleiter. Ich freue mich über Fragen, Empfehlungen oder eure
 den Kommentaren. 
 
 ---
-<img src="..{{ site.baseurl}}/assets/img/bike1.jpg" class="u-full-width"/>
+<img src="bike1.jpg" class="u-full-width"/>
 <img src="{{ site.baseurl}}../assets/img/bike2.jpg" class="u-full-width"/>
 ## The two wheeled, human muscle-powered mode of transportation
  
