@@ -26,7 +26,7 @@ und ich kann mir kaum eine besser Art vorstellen, sie zu erkunden, als
 auf einem Fahrrad.
 Naja, vielleicht aus der Lüfte ;-)
 ---
-Stats: 58km - 2:30:26h - avr. speed 23km/h - max speed 54km/h
+Stats: 58km - 2:30:26h - avr. speed 23km/h - max speed 54km/h map from komoot
 ---
 <img src="{{ site.baseurl}}/assets/img/st/2020-03-25ratzeburg0.jpg" class="u-full-width"/>
 <img src="{{ site.baseurl}}/assets/img/st/2020-03-25ratzeburg1.jpg" class="u-full-width"/>
