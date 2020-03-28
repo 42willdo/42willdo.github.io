@@ -4,7 +4,7 @@ news: true
 norecent: true
 title: "Gear"
 description: "A towel and a bit more..."
-img: post-1.jpg
+img: gear1.jpg
 ---
 
 # Travelling with a towel...
