@@ -24,6 +24,7 @@ Sobald das Video fertig ist, schreibe ich einen weiteren Post und
 werde diesen natürlich aktualisieren. Hast Du eine Lieblingsstrecke oder
 sollen es neue unbekannte Strecken sein ? Schreibe deine Meinung doch 
 mal in die Kommentare.
-
-
+---
+Stats: 33km - 1:17:476h - avr. speed 25km/h - max. speed 47km/h
+---
 <img src="{{ site.baseurl}}/assets/img/st/2020-03-24heilshoop0.jpg" class="u-full-width"/>
