@@ -46,7 +46,7 @@ Allerdings nicht auf irgend einem Rennrad, sonder auf dem ersten selbst gebauten
 Ein wunderschönes **Basso Gap**. 
 Verändert hat sich vor allem die Farbe, es ist Pulver beschichtet und hat neue Logos.
 Aus Sicherheitsaspekten habe ich die Schaltheber auf kombi Brems-Schalthebel umgerüstet. Somit muss meine
-zum Schalten nicht mehr den Bremshebel verlassen. Der aero oder zeitfahrer Lenkeraufsatz ermöglicht eine
+Hand zum Schalten nicht mehr den Bremshebel verlassen. Der aero oder zeitfahr Lenkeraufsatz ermöglicht eine
 alternative, aerodynamische Fahrposition.
 Es ist kein originaler Oldtimer mehr, es ist, im Vergleich zu modernen Carbonrädern, langsam und schwer,
 und gerade trotzdem **liebe** ich es mit dieser Schönheit unterwegs zu sein.
