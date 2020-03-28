@@ -19,6 +19,8 @@ interessante Reisebegleiter. Ich freue mich über Fragen, Empfehlungen oder eure
 den Kommentaren. 
 
 ---
+<img src="{{ site.baseurl}}/assets/img/gear/bike1.jpg" class="u-full-width"/>
+<img src="{{ site.baseurl}}/assets/img/gear/bike2.jpg" class="u-full-width"/>
 ## The two wheeled, human muscle-powered mode of transportation
  
 or bike for short. The careful observer will notice, that this is not the bike
@@ -56,6 +58,5 @@ there are a few more parts I want to write about. So stay tuned!
 ## Es gibt noch mehr....
 Da sind noch mehr Details, über welche ich schreiben möchte. Bleibt gespannt und schaut von Zeit zu Zeit mal rein!
 
-<img src="{{ site.baseurl}}/assets/img/gear/bike1.jpg" class="u-full-width"/>
-<img src="{{ site.baseurl}}/assets/img/gear/bike2.jpg" class="u-full-width"/>
+
 
