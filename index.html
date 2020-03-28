@@ -4,9 +4,10 @@ title: 42willdo
 author: Ford
 ---
 <ul class="slideshow">
-    <li><span style="background: url({{"/assets/img/post-1.jpg" | prepend: site.baseurl }});"></span></li>
-    <li><span></span></li>
-    <li><span></span></li>
-    <li><span></span></li>
-    <li><span></span></li>
+    {% for image in site.static_files %}
+      {% if image.path contains 'img/slider' %}
+        <li><span><img src="{{ site.baseurl }}{{ image.path }}" alt="image" style='height: 100%; width: 100%; object-fit: cover'/></span></li>
+        <!--<li><span style="background: url({{ site.baseurl }}{{ image.path }});"></span></li>-->
+      {% endif %}
+    {% endfor %}
 </ul>

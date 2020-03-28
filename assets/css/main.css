@@ -1753,16 +1753,6 @@ pre code {
 
 /** SLIDESHOW **/
 
-.buttonslide {
-    position: absolute;
-    top: 48vh;
-    left: 48vw;
-    background-color: #0a2463;
-    opacity: 0.8;
-    border-radius: 0.4em;
-    font-size: larger;
-}
-
 .slideshow,
 .slideshow:after {
     top: 5em;
@@ -1774,18 +1764,18 @@ pre code {
 }
 
 .slideshow li span {
-        position: absolute;
+    position: absolute;
     width: 98%;
     height: 100%;
     top: 0px;
     left: 0.7vw;
     color: transparent;
-    background-size: cover;
+    background-size: contain;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     opacity: 0;
     z-index: 0;
-    animation: imageAnimation 30s linear infinite 0s;
+    animation: imageAnimation 40s linear infinite 0s;
 }
 
 
@@ -1793,22 +1783,41 @@ pre code {
 .slideshow li:nth-child(1) span {
 }
 .slideshow li:nth-child(2) span {
-    background-image: url("https://uploads-ssl.webflow.com/5976a3655fcd654cb3d604ca/5c00c9ecd82b40364fc97f4b_bridge.jpg");
-    animation-delay: 5s;
+    animation-delay: 7s;
 }
 .slideshow li:nth-child(3) span {
-    background-image: url("https://uploads-ssl.webflow.com/5976a3655fcd654cb3d604ca/5c00c9963ea913260bb41b0e_powerlines.jpg");
-    animation-delay: 10s;
+    animation-delay: 14s;
 }
 .slideshow li:nth-child(4) span {
-    background-image: url("https://uploads-ssl.webflow.com/5976a3655fcd654cb3d604ca/5bfa14d04ae3429879830ee4_home-hero.jpg");
-    animation-delay: 15s;
+    animation-delay: 21s;
 }
 .slideshow li:nth-child(5) span {
-    background-image: url("https://uploads-ssl.webflow.com/5976a3655fcd654cb3d604ca/5c00c9963ea913260bb41b0e_powerlines.jpg");
-    animation-delay: 20s;
+    animation-delay: 28s;
 }
-
+.slideshow li:nth-child(6) span {
+    animation-delay: 35s;
+}
+.slideshow li:nth-child(7) span {
+    animation-delay: 42s;
+}
+.slideshow li:nth-child(8) span {
+    animation-delay: 49s;
+}
+.slideshow li:nth-child(9) span {
+    animation-delay: 56s;
+}
+.slideshow li:nth-child(10) span {
+    animation-delay: 63s;
+}
+.slideshow li:nth-child(11) span {
+    animation-delay: 70s;
+}
+.slideshow li:nth-child(12) span {
+    animation-delay: 77s;
+}
+.slideshow li:nth-child(13) span {
+    animation-delay: 84s;
+}
 
 
 @keyframes imageAnimation {
