@@ -20,7 +20,7 @@ den Kommentaren.
 
 ---
 <img src="bike1.jpg" class="u-full-width"/>
-<img src="/_posts/{{ site.baseurl}}/assets/img/bike2.jpg" class="u-full-width"/>
+<img src="bike2.jpg" class="u-full-width"/>
 ## The two wheeled, human muscle-powered mode of transportation
  
 or bike for short. The careful observer will notice, that this is not the bike
