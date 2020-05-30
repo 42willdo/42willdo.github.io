@@ -4,6 +4,7 @@ category: st
 author: Ford
 img: st/2020-03-24heilshoop0.jpg
 comments: true
+tags: [Training, Heilshoop]
 title: "Training"
 ---
 # Training and Testing
