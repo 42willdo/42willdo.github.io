@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem "activesupport", ">= 6.0.3.1"
+
 gem 'jekyll'
 
 group :jekyll_plugins do
