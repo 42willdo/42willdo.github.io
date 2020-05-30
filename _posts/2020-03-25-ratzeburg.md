@@ -4,6 +4,7 @@ category: st
 author: Ford
 img: st/2020-03-25ratzeburg4.jpg
 comments: true
+tags: [Ratzeburg, Strauß, Ostrich]
 title: "Is there a better place?"
 ---
 # There are these places ...
