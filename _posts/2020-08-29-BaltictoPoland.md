@@ -15,6 +15,8 @@ This time with better preparation than for my very first tour.... I hope....
 At least the topic of places to sleep is sorted as I prebooked all the campgrounds I want to stay at.
 Most of all I drastically reduced the weight I am carrying with me. 
 No camera, no solar panel, no leisurewear, no extra shoes, no backpack.
+For anyone asking, yes I did cut off my toothbrush handle, eventhough more for the fun of doing it
+than the 3g I saved xD
 Only the essential things strapped to my roadbike. 
 
 Roadbike alone: 12.2kg (26.9pounds)
@@ -37,6 +39,7 @@ Zumindest das Übernachtungsproblem sollte gelöst sein, da ich alle Campingplä
 Jetzt muss ich da "nur noch" ankommen ;-)
 Vorallem habe ich aber versucht das Gewicht drastisch zu reduzieren.
 Keine Kamera, kein Solarpanel, keine zusätzliche Kleidung, keine extra Schuhe, kein Rucksack.
+Und ja ich habe den Griff meiner Zahnbürste abgesägt, wenn auch mehr aus Spaß, als für die 3g Ersparnis xD
 Nur die essentiell notwendigen Dinge an mein Rennrad geschnürt.
 
 Rennrad alleine: 12.2kg
@@ -48,3 +51,4 @@ Gesamtgewicht mit Rad und allen Taschen: ** **
 
 Zum Vergleich, bei der ersten Tour wog mein Fahrrad mit Gepäck **37kg** 
 Mal sehen wie stark sich der Unterschied morgen bemerkbar macht.
+---
