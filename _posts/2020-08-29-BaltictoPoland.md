@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-category: BaltictoPoland
+category: btp
 title: "A new adventure"
 author: Ford
 img: /BaltictoPoland/overview.png
@@ -27,7 +27,7 @@ Food for two days plus toiletry: 1.19kg (2.7pounds)
 
 2.25 Liters of Water
 
-Second set of clothing, spare parts, maps and a first aid kit:
+Second set of clothing, spare parts, maps and a first aid kit
 
 Total weight with bike and all bags: **19.6kg (40pounds)**
 
@@ -55,7 +55,7 @@ Essen für zwei Tage und Waschsachen: 1.19kg
 
 2.25 Liter Wasser
 
-Zweiter Satz Kleidung, Ersatzteile, Karten und Erste Hilfe Set:
+Zweiter Satz Kleidung, Ersatzteile, Karten und Erste Hilfe Set
 
 Gesamtgewicht mit Rad und allen Taschen: **19.6kg**
 
