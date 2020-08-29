@@ -29,7 +29,7 @@ Food for two days plus toiletry: 1.19kg (2.7pounds)
 
 Second set of clothing, spare parts, maps and a first aid kit:
 
-Total weight with bike and all bags: ** **
+Total weight with bike and all bags: **19.6kg (40pounds)**
 
 For comparison, on my first tour the total weight of the bike with all the gear was **37kg (81.6pounds)**
 Let's see how that difference effects my first day of riding tomorrow.
@@ -57,7 +57,7 @@ Essen für zwei Tage und Waschsachen: 1.19kg
 
 Zweiter Satz Kleidung, Ersatzteile, Karten und Erste Hilfe Set:
 
-Gesamtgewicht mit Rad und allen Taschen: ** **
+Gesamtgewicht mit Rad und allen Taschen: **19.6kg**
 
 Zum Vergleich, bei der ersten Tour wog mein Fahrrad mit Gepäck **37kg** 
 Mal sehen wie stark sich der Unterschied morgen bemerkbar macht.
