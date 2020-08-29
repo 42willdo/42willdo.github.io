@@ -20,10 +20,15 @@ than the 3g I saved xD
 Only the essential things strapped to my roadbike. 
 
 Roadbike alone: 12.2kg (26.9pounds)
+
 Tarp, sleeping-bag and -pad plus the stove and pot: 3.4kg (8pounds)
+
 Food for two days plus toiletry: 1.19kg (2.7pounds)
+
 2.25 Liters of Water
+
 Second set of clothing, spare parts, maps and a first aid kit:
+
 Total weight with bike and all bags: ** **
 
 For comparison, on my first tour the total weight of the bike with all the gear was **37kg (81.6pounds)**
@@ -43,10 +48,15 @@ Und ja ich habe den Griff meiner Zahnbürste abgesägt, wenn auch mehr aus Spaß
 Nur die essentiell notwendigen Dinge an mein Rennrad geschnürt.
 
 Rennrad alleine: 12.2kg
+
 Tarp, Schlafsack und Isomatte sowie Kocher und Topf: 3.4kg
+
 Essen für zwei Tage und Waschsachen: 1.19kg
+
 2.25 Liter Wasser
+
 Zweiter Satz Kleidung, Ersatzteile, Karten und Erste Hilfe Set:
+
 Gesamtgewicht mit Rad und allen Taschen: ** **
 
 Zum Vergleich, bei der ersten Tour wog mein Fahrrad mit Gepäck **37kg** 
