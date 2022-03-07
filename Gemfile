@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 
-gem "kramdown", ">= 2.3.0"
+gem "kramdown", ">= 2.3.1"
 gem 'jekyll'
 
 group :jekyll_plugins do
