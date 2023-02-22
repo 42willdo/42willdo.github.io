@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: simple
 author: Ford
 title: "private"
 img: about.jpg
