@@ -1,0 +1,13 @@
+---
+layout: home-page
+title: 42willdo
+author: Ford
+---
+<ul class="slideshow">
+    {% for image in site.static_files %}
+      {% if image.path contains 'img/slider' %}
+        <li><span><img src="{{ site.baseurl }}{{ image.path }}" alt="image" style='height: 100%; width: 100%; object-fit: cover'/></span></li>
+        <!--<li><span style="background: url({{ site.baseurl }}{{ image.path }});"></span></li>-->
+      {% endif %}
+    {% endfor %}
+</ul>
