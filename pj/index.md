@@ -16,7 +16,6 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: device-width;
-  max-height: device-height;
   position: relative;
   margin: auto;
 }
@@ -93,13 +92,13 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png" style="width:100%">
+  <img src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png" style="height:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="{{ site.baseurl}}/assets/img/slider/DSC_5004e.png" style="width:100%">
+  <img src="{{ site.baseurl}}/assets/img/slider/DSC_5004e.png" style="width:device-width">
   <div class="text">Caption Two</div>
 </div>
 
