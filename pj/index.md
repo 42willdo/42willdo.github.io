@@ -17,7 +17,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: device-width;
   position: relative;
-  margin: auto;
+  margin: none;
 }
 
 /* Next & previous buttons */
@@ -85,20 +85,6 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
   
-  /* fit images to screen */
-        * {
-            margin: 0;
-            padding: 0;
-        }
-        .imgbox {
-            display: grid;
-            height: 100%;
-        }
-        .center-fit {
-            max-width: 100%;
-            max-height: 100vh;
-            margin: auto;
-        }
 </style>
 </head>
 <body>
@@ -107,9 +93,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-    <div class="imgbox>
-      <img class="center-fit" src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png">
-    </div>
+  <img src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png" style="width:100vw;height:100vh">
   <div class="text">Caption Text</div>
 </div>
 
