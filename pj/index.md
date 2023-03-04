@@ -20,6 +20,11 @@ img {vertical-align: middle;}
   margin: none;
 }
 
+.image {
+  width:100vw;
+  height:100vh;
+}
+  
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -93,19 +98,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png" style="width:100vw;height:100vh">
+  <img class="image" src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="{{ site.baseurl}}/assets/img/slider/DSC_5004e.png" style="width:device-width">
+  <img class="image" src="{{ site.baseurl}}/assets/img/slider/DSC_5004e.png">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="{{ site.baseurl}}/assets/img/slider/PARA_1e.png" style="width:100%">
+  <img class="image" src="{{ site.baseurl}}/assets/img/slider/PARA_1e.png">
   <div class="text">Caption Three</div>
 </div>
 
