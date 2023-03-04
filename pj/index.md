@@ -84,6 +84,21 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+  
+  /* fit images to screen */
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }
 </style>
 </head>
 <body>
@@ -92,7 +107,9 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png" style="height:100%">
+    <div class="imgbox>
+      <img class="center-fit" src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png">
+    </div>
   <div class="text">Caption Text</div>
 </div>
 
