@@ -89,7 +89,7 @@ img {vertical-align: middle;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
-  .img {width:100vw; height:auto;}
+  .image {width:100vw; height:auto;}
 }
   
 </style>
