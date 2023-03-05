@@ -8,7 +8,9 @@ title: "PJ"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
+  
+body {font-family: Verdana, sans-serif; margin:0; overflow:hidden}
+  
 .mySlides {display: none}
 img {vertical-align: middle;}
 
@@ -117,7 +119,6 @@ img {vertical-align: middle;}
 <a class="next" onclick="plusSlides(1)">❯</a>
 
 </div>
-<br>
 
 
 <script>
