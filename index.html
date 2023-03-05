@@ -173,8 +173,6 @@ img {vertical-align: middle;}
   <img class="image" src="{{ site.baseurl}}/assets/img/slider/DSC_8590e.jpg">
 </div>
     
-<a class="prev" onclick="plusSlides(-1)">❮</a>
-<a class="next" onclick="plusSlides(1)">❯</a>
 
 </div>
 
@@ -182,10 +180,6 @@ img {vertical-align: middle;}
 <script>
 let slideIndex = 0;
 showSlides();
-
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
 
 function showSlides() {
   let i;
@@ -196,7 +190,6 @@ function showSlides() {
   slideIndex++;
     
   if (slideIndex > slides.length) {slideIndex = 1}    
-  if (slideIndex < 1) {slideIndex = slides.length}
 
   slides[slideIndex-1].style.display = "block";  
   setTimeout(showSlides(), 3000);
