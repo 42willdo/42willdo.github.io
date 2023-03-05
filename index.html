@@ -181,17 +181,13 @@ img {vertical-align: middle;}
 
 <script>
 let slideIndex = 0;
-showSlides(slideIndex);
+showSlides();
 
 function plusSlides(n) {
   showSlides(slideIndex += n);
 }
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
+function showSlides() {
   let i;
   let slides = document.getElementsByClassName("mySlides");
   for (i = 0; i < slides.length; i++) {
@@ -203,7 +199,7 @@ function showSlides(n) {
   if (slideIndex < 1) {slideIndex = slides.length}
 
   slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides(slideIndex), 5000);
+  setTimeout(showSlides(), 3000);
 }
 </script>
 
