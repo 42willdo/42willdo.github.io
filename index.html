@@ -34,6 +34,7 @@ img {vertical-align: middle;}
 .image {
   width:100vw;
   height:100vh;
+  object-fit: cover;
 }
   
 /* Next & previous buttons */
@@ -88,7 +89,7 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 2s;
 }
 
 @keyframes fade {
@@ -193,7 +194,7 @@ function showSlides() {
   
   slides[slideIndex-1].style.display = "block";  
 
-  setTimeout(showSlides, 4000); 
+  setTimeout(showSlides, 5000); 
 }
 </script>
 
