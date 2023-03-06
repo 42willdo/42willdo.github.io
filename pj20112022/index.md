@@ -24,6 +24,7 @@ img {vertical-align: middle;}
 .image {
   width:100vw;
   height:100vh;
+  object-fit:cover;
 }
   
 /* Next & previous buttons */
