@@ -3,7 +3,7 @@ layout: post
 category: st
 author: Ford
 img: st/2020-03-25ratzeburg4.jpg
-comments: true
+comments: false
 tags: [Ratzeburg, Strauß, Ostrich]
 title: "Modal images"
 ---
