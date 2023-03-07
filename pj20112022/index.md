@@ -100,21 +100,171 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img class="image" src="{{ site.baseurl}}/assets/img/slider/DSC_0156e.png">
-  <div class="text">Caption Text</div>
+  <div class="numbertext">1 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/P1.jpg">
+  <!--<div class="text">Caption Text</div>-->
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img class="image" src="{{ site.baseurl}}/assets/img/slider/DSC_5004e.png">
-  <div class="text">Caption Two</div>
+  <div class="numbertext">2 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/H1.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">3 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/H2.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">4 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/R1.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">5 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/S0.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">6 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/S1.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">7 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/S2.jpg">
+  <!--<div class="text">Caption Text</div>-->
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img class="image" src="{{ site.baseurl}}/assets/img/slider/PARA_1e.png">
-  <div class="text">Caption Three</div>
+  <div class="numbertext">8 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/S3.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">9 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/S4.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">10 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/S5.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">11 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/S6.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">12 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/S7.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">13 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/W0.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">14 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/W1.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">15 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/W2.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">16 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/W3.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">17 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/W4.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">18 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/W5.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">19 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/W6.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">20 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/W7.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">21 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/B0.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">22 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/B1.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">23 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/B2.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">24 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/B3.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">25 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/B4.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">26 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/B5.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">27 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/B6.jpg">
+  <!--<div class="text">Caption Text</div>-->
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">28 / 28</div>
+  <img class="image" src="{{ site.baseurl}}/pj20112022/P0.jpg">
+  <!--<div class="text">Caption Text</div>-->
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
